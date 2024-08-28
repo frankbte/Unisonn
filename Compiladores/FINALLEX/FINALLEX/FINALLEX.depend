@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1716993478 source:c:\users\silvi\downloads\finallex\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+
+1717135419 source:c:\users\frank\documents\unison\compiladores\finallex\finallex\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+

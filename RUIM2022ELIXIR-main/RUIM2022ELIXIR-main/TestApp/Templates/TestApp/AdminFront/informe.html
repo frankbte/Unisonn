@@ -1,0 +1,72 @@
+{% extends "TestApp/AdminFront/baseAdmin.html" %}
+{% load static %}
+
+{% block additional-head %}
+    <meta charset="utf-8">
+{% endblock %}
+
+{% block title %}Informe RUIM {{ evento.year }}{% endblock %}
+
+{% block content %}
+
+    <body>
+        <div class="container mt-4">
+
+            <br>
+            <h1 class="row justify-content-center" style="font-weight: bold">Informe final: RUIM {{ evento.year }}</h1>
+            <h2>
+                Se presentan las estadísticas relacionadas a las presentaciones 
+                registradas a través de la página de la RUIM para la edición {{ evento.year }} :
+            </h2>
+            <br>
+            <table class="table table-bordered table-hover">
+                <caption style="caption-side:top ">Número de presentaciones:</caption>
+                <thead>
+                    <th scope="col">#</th>
+                    <th scope="col">Presentaciones</th>
+                    <th scope="col">Ponencias</th>
+                    <th scope="col">Carteles</th>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">Aceptadas</th>
+                        <td>{{ pres_acept }}</td>
+                        <td>{{ ponen_acept }}</td>
+                        <td>{{ cart_acept }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Rechazadas</th>
+                        <td>{{ pres_rechaz }}</td>
+                        <td>{{ ponen_rechaz }}</td>
+                        <td>{{ cart_rechaz }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Totales</th>
+                        <td>{{ pres_total }}</td>
+                        <td>{{ ponen_total }}</td>
+                        <td>{{ cart_total }}</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="table table-bordered table-hover">
+                <caption style="caption-side:top ">Grado de los participantes:</caption>
+                <thead>
+                    <th scope="col">Estudiantes</th>
+                    <th scope="col">Ingeniería</th>
+                    <th scope="col">Licenciatura</th>
+                    <th scope="col">Maestría</th>
+                    <th scope="col">Doctorado</th>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>{{ est }}</td>
+                        <td>{{ ing }}</td>
+                        <td>{{ lic }}</td>
+                        <td>{{ mtr }}</td>
+                        <td>{{ doc }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+    {% endblock %}

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\frank\documents\unison\estructuras\estructuras2\colamedieval2\main.cpp
+	<iostream>
+
+1710952246 source:c:\users\frank\documents\unison\estructuras\estructuras2\colamedieval2\colam.cpp
+	<iostream>
+	"ColaM.h"
+
+1710952267 c:\users\frank\documents\unison\estructuras\estructuras2\colamedieval2\colam.h
+	<string>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1714147327 source:c:\users\frank\documents\unison\estructuras\estructuras2\grafica\grafica.cpp
+	"Grafica.h"
+	<iostream>
+
+1714147150 source:c:\users\frank\documents\unison\estructuras\estructuras2\grafica\main.cpp
+	<iostream>
+	"Grafica.h"
+
+1714147972 c:\users\frank\documents\unison\estructuras\estructuras2\grafica\grafica.h
+

@@ -1,0 +1,72 @@
+{% extends "TestApp/base.html" %}
+
+ {% load static %}
+
+ {% block content %}
+
+<br> 
+
+
+    <div style="background-color: rgba(28, 72, 124); width: 30%;">
+    </div>
+    <center>
+	{% if message %}
+	<h5 style="color: rgb(255, 255, 255); font-weight: bold;">{{ message|linebreaks }} </h5>
+	</br>
+	{% endif %}
+    <div style="background-color: white; text-align: center; width: 50%; margin-bottom: -1.5cm;">
+    <h3 style="color: black;">
+      Muchas Gracias por su interés en formar parte de la <br>
+      XXV Reunión Universitaria de Investigación en Materiales <br>
+      (RUIM 2022) <br>
+      Formato para el registro de ponencias/carteles 
+      <u>
+    <a href="{% static evento.registro.formato_resumen_pdf %}" target="_blank" style="color: rgb(29, 6, 111); font-weight: bold; font-style: oblique;"> AQUÍ</a> <br />
+    </u>
+    </h3>
+	<h2 style="color: black;">
+			{% if evento.register_available %}
+			<a href="{% url 'TestApp:Ponencias' %}" target="_self" style="color: rgb(29, 6, 111); font-weight: bold; font-style: oblique;">Acceso a registro de ponencias</a>
+			{% else %}
+			<br/>
+			<u>El registro de presentaciones ya no está disponible</u>
+			{% endif %}<br/>
+	</h2>
+    </div>
+    </center>
+<center>
+    <section class="page-section cta" style="padding-top: 1cm; padding-bottom: 1cm;">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-12 mx-auto">
+              <div class="cta-inner text-left rounded">
+                <h2 class="section-heading mb-4">
+                  <span class="section-heading-upper"></span>
+                  <span class="section-heading-lower"></span> 
+                <h2 style="font-weight: bold; color: white"> {{ inf_registro.title_participacion_ponente }} </h2>
+                <h3 style="font-size: 110%; font-family: Arial;">  {{ inf_registro.text_participacion_ponente|linebreaks }}</h3>
+                <br>
+                <br>
+                <h2 style="font-weight: bold;"> {{ inf_registro.title_formato_resumen }} </h2>
+                <h3 style="font-size: 110%; font-family: Arial;"> {{ inf_registro.text_formato_resumen|linebreaks }}</h3>
+                <br>
+                <br>
+                <h2 style="font-weight: bold;"> {{ inf_registro.title_constancias_participacion }} </h2>
+                <h3 style="font-size: 110%; font-family: Arial;"> {{ inf_registro.text_constancias_participacion|linebreaks }}</h3>
+                <br>
+                <br>
+                <h2 style="font-weight: bold;"> {{ inf_registro.title_participacion_asistente }} </h2>
+                <h3 style="font-size: 110%; font-family: Arial;"> {{ inf_registro.text_participacion_asistente|linebreaks }}</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+</center>
+
+
+
+<br>
+
+ {% endblock %}

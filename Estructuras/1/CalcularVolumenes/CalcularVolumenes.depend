@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1676533081 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calcularvolumenes\main.cpp
+	<iostream>
+	<cstdlib>
+	<limits>
+	"Menu.h"
+	"Utileria.h"
+	"GestionVolumenes.h"
+	"Volumenes.h"
+
+1676530457 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calcularvolumenes\volumenes.cpp
+	"Volumenes.h"
+
+1676530457 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calcularvolumenes\volumenes.h
+
+1676533081 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calcularvolumenes\menu.h
+
+1676533081 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calcularvolumenes\utileria.h
+
+1676533081 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calcularvolumenes\gestionvolumenes.h
+
+1676533127 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calcularvolumenes\utileria.cpp
+	"Utileria.h"
+	<limits>
+	<cstdlib>
+	<iostream>
+
+1676533159 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calcularvolumenes\gestionvolumenes.cpp
+	<iostream>
+	"Volumenes.h"
+	<cstdlib>
+	"GestionVolumenes.h"
+	"Utileria.h"
+
+1676533188 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calcularvolumenes\menu.cpp
+	"Menu.h"
+	<cstdlib>
+	<iostream>
+	"Utileria.h"
+

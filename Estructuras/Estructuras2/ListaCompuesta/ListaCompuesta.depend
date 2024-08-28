@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1712210958 source:c:\users\frank\documents\unison\estructuras\estructuras2\listacompuesta\main.cpp
+	<iostream>
+	"ListaCompuesta.h"
+
+1712210495 c:\users\frank\documents\unison\estructuras\estructuras2\listacompuesta\listacompuesta.h
+	"Lista.h"
+	"ListaCompuesta.tpp"
+
+1712166117 c:\users\frank\documents\unison\estructuras\estructuras2\listacompuesta\lista.h
+	"Lista.tpp"
+
+1712166142 c:\users\frank\documents\unison\estructuras\estructuras2\listacompuesta\lista.tpp
+	"Lista.h"
+
+1712211204 c:\users\frank\documents\unison\estructuras\estructuras2\listacompuesta\listacompuesta.tpp
+	"ListaCompuesta.h"
+

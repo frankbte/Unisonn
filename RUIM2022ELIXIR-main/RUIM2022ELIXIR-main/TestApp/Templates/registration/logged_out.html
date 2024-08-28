@@ -1,0 +1,10 @@
+{% extends "TestApp/AdminFront/baseAdmin.html" %}
+
+{% block content %}
+<center>
+		<br/>
+		<p style="color: black; font-weight: bold">Logged out!</p>
+
+		<a style="color: black;" href="{% url 'TestApp:login'%}">Click here to login again.</a>
+</center>
+{% endblock %}

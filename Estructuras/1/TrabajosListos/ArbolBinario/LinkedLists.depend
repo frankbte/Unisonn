@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1678928279 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\linkedlists\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+
+1678928957 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\linkedlists\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+
+1678928949 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\linkedlists\lista.h
+	<cstdlib>
+	<iostream>
+
+1679602610 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\listadoble\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+
+1679600431 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\listadoble\lista.h
+	<cstdlib>
+	<iostream>
+
+1679600615 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\listadoble\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+
+1681367943 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\arbolbinario\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+
+1682047440 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\arbolbinario\lista.h
+	<cstdlib>
+	<iostream>
+
+1681367884 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\arbolbinario\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+
+1708977980 source:c:\users\frank\documents\unison\estructuras\1\trabajoslistos\arbolbinario\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+
+1708977980 c:\users\frank\documents\unison\estructuras\1\trabajoslistos\arbolbinario\lista.h
+	<cstdlib>
+	<iostream>
+
+1708977980 source:c:\users\frank\documents\unison\estructuras\1\trabajoslistos\arbolbinario\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+

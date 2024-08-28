@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1707276987 source:c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\matriz\main.cpp
+	<iostream>
+	"Matriz.h"
+
+1707242296 source:c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\matriz\matriz.cpp
+	"Matriz.h"
+	<iostream>
+
+1707273757 c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\matriz\matriz.h
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1707414351 source:c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\pila\main.cpp
+	<iostream>
+	"Pila.h"
+
+1707411817 c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\pila\pila.h
+
+1707412812 source:c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\pila\pila.cpp
+	<iostream>
+	"Pila.h"
+	<iostream>
+
+1707764768 source:c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\plantillapila\main.cpp
+	<iostream>
+	"Pila.h"
+
+1707757171 c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\plantillapila\pila.h
+	"Pila.tpp"
+
+1707412812 source:c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\plantillapila\pila.cpp
+	<iostream>
+	"Pila.h"
+	<iostream>
+
+1707764696 c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\plantillapila\pila.tpp
+	<iostream>
+
+1708978046 source:c:\users\frank\documents\unison\estructuras\estructuras2\plantillapila\main.cpp
+	<iostream>
+	"Pila.h"
+
+1708978046 c:\users\frank\documents\unison\estructuras\estructuras2\plantillapila\pila.h
+	"Pila.tpp"
+
+1708978046 c:\users\frank\documents\unison\estructuras\estructuras2\plantillapila\pila.tpp
+	<iostream>
+

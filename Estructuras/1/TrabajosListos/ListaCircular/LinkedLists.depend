@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1678928279 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\linkedlists\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+
+1678928957 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\linkedlists\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+
+1678928949 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\linkedlists\lista.h
+	<cstdlib>
+	<iostream>
+
+1679602610 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\listadoble\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+
+1679600431 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\listadoble\lista.h
+	<cstdlib>
+	<iostream>
+
+1679600615 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\listadoble\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+
+1680202907 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\listacircular\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+
+1680207413 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\listacircular\lista.h
+	<cstdlib>
+	<iostream>
+
+1680207469 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\listacircular\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+
+1708977978 source:c:\users\frank\documents\unison\estructuras\1\trabajoslistos\listacircular\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+
+1708977978 c:\users\frank\documents\unison\estructuras\1\trabajoslistos\listacircular\lista.h
+	<cstdlib>
+	<iostream>
+
+1712162689 source:c:\users\frank\documents\unison\estructuras\1\trabajoslistos\listacircular\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+

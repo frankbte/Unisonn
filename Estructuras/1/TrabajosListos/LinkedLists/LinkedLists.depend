@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1679091726 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\linkedlists\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+
+1679091633 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\linkedlists\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+
+1679091924 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\linkedlists\lista.h
+	<cstdlib>
+	<iostream>
+
+1708981578 source:c:\users\frank\documents\unison\estructuras\1\trabajoslistos\linkedlists\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+
+1708981578 c:\users\frank\documents\unison\estructuras\1\trabajoslistos\linkedlists\lista.h
+	<cstdlib>
+	<iostream>
+
+1708981578 source:c:\users\frank\documents\unison\estructuras\1\trabajoslistos\linkedlists\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+

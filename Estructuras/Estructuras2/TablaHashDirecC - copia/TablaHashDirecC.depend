@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1717354859 source:c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\main.cpp
+	<iostream>
+	"Lista.h"
+	"TablaHash.h"
+	"utilerias.h"
+
+1717351767 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\lista.h
+	"Lista.tpp"
+
+1717355026 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\lista.tpp
+	"Lista.h"
+
+1717354931 source:c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\tablahash.cpp
+	"TablaHash.h"
+
+1717349974 source:c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\utilerias.cpp
+	"utilerias.h"
+
+1717349928 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\utilerias.h
+	<iostream>
+	<windows.h>
+	<limits>
+
+1717352461 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\tablahash.h
+	<iostream>
+	<string>
+	"Lista.h"
+	"utilerias.h"
+
+1717357449 source:c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc - copia\main.cpp
+	<iostream>
+	"Lista.h"
+	"TablaHash.h"
+	"utilerias.h"
+	"Gestion.h"
+
+1717351767 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc - copia\lista.h
+	"Lista.tpp"
+
+1717355026 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc - copia\lista.tpp
+	"Lista.h"
+
+1717352461 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc - copia\tablahash.h
+	<iostream>
+	<string>
+	"Lista.h"
+	"utilerias.h"
+
+1717349928 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc - copia\utilerias.h
+	<iostream>
+	<windows.h>
+	<limits>
+
+1717354931 source:c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc - copia\tablahash.cpp
+	"TablaHash.h"
+
+1717349974 source:c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc - copia\utilerias.cpp
+	"utilerias.h"
+
+1717357532 source:c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc - copia\gestion.cpp
+	"Gestion.h"
+
+1717357113 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc - copia\gestion.h
+	<iostream>
+	<limits>
+	<conio.h>
+	<windows.h>
+	"TablaHash.h"
+	"utilerias.h"
+

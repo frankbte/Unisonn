@@ -1,0 +1,218 @@
+#include <iostream>
+#include "ListaCircularDoble.h"
+#include "Pila.h"
+
+using namespace std;
+
+
+
+int main()
+{
+
+    try
+    {
+
+        ListaCD<int> lista;
+        lista.Agregar(1);
+        lista.Agregar(2);
+        lista.Agregar(2);
+        lista.Agregar(2);
+        lista.Agregar(3);
+        lista.Agregar(4);
+        lista.AgregarEnCabeza(5);
+        lista.Agregar(6);
+        lista.AgregarEnCabeza(7);
+
+        cout << "Lista Original " << endl;
+        lista.Imprimir();
+
+        cout << "Eliminando Valor de la cabeza: " << endl;
+        lista.EliminarCabeza();
+        lista.Imprimir();
+        cout << "Eliminando primera ocurrencia del valor 5 : " << endl;
+        lista.Eliminar(5);
+        lista.Imprimir();
+        cout << "Avanzando la cabeza: "<<endl;
+        lista.AvanzarCabeza();
+        lista.Imprimir();
+        cout << "Retrocediendo la cabeza: "<<endl;
+        lista.RetrocederCabeza();
+        lista.Imprimir();
+        cout << "Valor de la cabeza: "<<lista.ValorCabeza() << endl;
+
+        cout << "\250El valor 6 est\240 en la lista?" << endl;
+        if (lista.Buscar(6))
+        {
+            cout << "El elemento 6 se encuentra en la lista." << endl;
+        }
+        else
+        {
+            cout << "El elemento 6 no se encuentra en la lista." << endl;
+        }
+
+        cout << "Tama\244o de la lista: " << lista.ObtenerTam() << endl;
+        cout << "\250La lista est\240 vac\241a? " << endl;
+        if (lista.EstaVacia())
+        {
+            cout << "La Lista est\240 vac\241a" << endl;
+        }
+        else
+        {
+            cout << "La Lista no est\240 vac\241a" << endl;
+        }
+        cout << "Borrar Todas las ocurrencias de 2:" << endl;
+        lista.BorrarTodosElemento(2);
+        lista.Imprimir();
+        cout << "Vaciando :" << endl;
+        lista.Vaciar();
+        lista.Imprimir();
+
+        system("pause");
+        system("CLS");
+        ListaCD<string> listaString;
+        listaString.Agregar("A");
+        listaString.Agregar("B");
+        listaString.Agregar("C");
+        listaString.Agregar("D");
+        listaString.Agregar("E");
+        listaString.Agregar("E");
+        listaString.Agregar("E");
+        listaString.Agregar("F");
+        listaString.AgregarEnCabeza("B");
+
+
+        cout << "Lista Original " << endl;
+        listaString.Imprimir();
+
+        cout << "Eliminando Valor de la cabeza: " << endl;
+        listaString.EliminarCabeza();
+        listaString.Imprimir();
+        cout << "Eliminando primera ocurrencia del Elemento E : " << endl;
+        listaString.Eliminar("E");
+        listaString.Imprimir();
+        cout << "Avanzando la cabeza: "<<endl;
+        listaString.AvanzarCabeza();
+        listaString.Imprimir();
+        cout << "Retrocediendo la cabeza: "<<endl;
+        listaString.RetrocederCabeza();
+        listaString.Imprimir();
+        cout << "Valor de la cabeza: "<<listaString.ValorCabeza() << endl;
+
+        cout << "\250El valor A est\240 en la lista?" << endl;
+        if (listaString.Buscar("A"))
+        {
+            cout << "El elemento A se encuentra en la lista." << endl;
+        }
+        else
+        {
+            cout << "El elemento A no se encuentra en la lista." << endl;
+        }
+
+        cout << "Tama\244o de la lista: " << listaString.ObtenerTam() << endl;
+        cout << "\250La lista est\240 vac\241a? " << endl;
+        if (listaString.EstaVacia())
+        {
+            cout << "La Lista est\240 vac\241a" << endl;
+        }
+        else
+        {
+            cout << "La Lista no est\240 vac\241a" << endl;
+        }
+        cout << "Borrar Todas las ocurrencias de E:" << endl;
+        listaString.BorrarTodosElemento("E");
+        listaString.Imprimir();
+        cout << "Vaciando :" << endl;
+        listaString.Vaciar();
+        listaString.Imprimir();
+
+        system("pause");
+        system("CLS");
+
+        ListaCD<Pila<int>> ListaPila;
+
+        Pila<int> Pila1;
+        Pila1.Apilar(1);
+        Pila1.Apilar(2);
+        Pila1.Apilar(3);
+
+        Pila<int> Pila2;
+        Pila2.Apilar(4);
+        Pila2.Apilar(5);
+        Pila2.Apilar(6);
+
+        Pila<int> Pila3;
+        Pila3.Apilar(7);
+        Pila3.Apilar(8);
+        Pila3.Apilar(9);
+
+        Pila<int> Pila4;
+        Pila4.Apilar(10);
+        Pila4.Apilar(11);
+        Pila4.Apilar(12);
+
+        Pila<int> Pila5;
+        Pila5.Apilar(13);
+        Pila5.Apilar(14);
+        Pila5.Apilar(15);
+
+        ListaPila.Agregar(Pila1);
+        ListaPila.Agregar(Pila2);
+        ListaPila.Agregar(Pila3);
+        ListaPila.AgregarEnCabeza(Pila4);
+        ListaPila.Agregar(Pila5);
+
+        cout << "Lista Original " << endl;
+        ListaPila.Imprimir();
+
+        cout << "Eliminando Valor de la cabeza: " << endl;
+        ListaPila.EliminarCabeza();
+        ListaPila.Imprimir();
+        cout << "Eliminando Una de las Pilas : " << endl;
+        ListaPila.Eliminar(Pila1);
+        ListaPila.Imprimir();
+        cout << "Avanzando la cabeza: "<<endl;
+        ListaPila.AvanzarCabeza();
+        ListaPila.Imprimir();
+        cout << "Retrocediendo la cabeza: "<<endl;
+        ListaPila.RetrocederCabeza();
+        ListaPila.Imprimir();
+        cout << "Valor de la cabeza: "<<ListaPila.ValorCabeza() << endl;
+
+       /* cout << "\250El valor A est\240 en la lista?" << endl;
+        if (ListaPila.Buscar("A"))
+        {
+            cout << "El elemento A se encuentra en la lista." << endl;
+        }
+        else
+        {
+            cout << "El elemento A no se encuentra en la lista." << endl;
+        }*/
+
+        cout << "Tama\244o de la lista: " << ListaPila.ObtenerTam() << endl;
+        cout << "\250La lista est\240 vac\241a? " << endl;
+        if (ListaPila.EstaVacia())
+        {
+            cout << "La Lista est\240 vac\241a" << endl;
+        }
+        else
+        {
+            cout << "La Lista no est\240 vac\241a" << endl;
+        }
+        cout << "Borrar Todas las ocurrencias de E:" << endl;
+        ListaPila.BorrarTodosElemento("E");*/
+        ListaPila.Imprimir();
+        cout << "Vaciando :" << endl;
+        ListaPila.Vaciar();
+        ListaPila.Imprimir();
+
+        system("pause");
+        system("CLS");
+
+    }
+    catch (const exception& e)
+    {
+        cerr << "Ocurri\242 una excepci\242n: " << e.what() << endl;
+    }
+
+    return 0;
+}

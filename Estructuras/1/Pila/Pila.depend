@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1676576516 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pila\main.cpp
+	<iostream>
+	"pila.h"
+
+1676576592 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pila\pila.cpp
+	"pila.h"
+	<iostream>
+
+1676573968 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pila\pila.h
+

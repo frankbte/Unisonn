@@ -1,0 +1,25 @@
+{% extends "TestApp/base.html" %}
+
+ {% load static %}
+
+ {% block content %}
+
+ <!--<div style="width: 10%;background-color: rgba(28, 72, 124); color: white; font-size: 250%; margin-top: .1cm;"> Poster </div> -->
+ <div><p></p></div>
+
+
+
+  <center>
+    &nbsp;<br />
+    <!--<img alt="Póster del evento" src="{% static evento.poster.poster_img /></a>-->
+    <img alt="Póster del evento" src="{% static evento.poster.poster_img %}" width="900px"/></a>
+    <h3 style="font-size: 165%; color: white;">Para ver el póster en formato PDF para impresión, haga click
+      <u>
+      <a href="{% static evento.poster.poster_pdf  %}" target="_blank" style="color: white;">AQUÍ</a>
+      </u>
+    </h3>
+</center>
+
+  <div><p></p></div>
+
+ {% endblock %}

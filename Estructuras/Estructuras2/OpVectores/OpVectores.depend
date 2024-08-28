@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1706201921 source:c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\opvectores\main.cpp
+	<iostream>
+	"Vector.h"
+
+1707237461 source:c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\opvectores\vector.cpp
+	<iostream>
+	"Vector.h"
+
+1706201919 c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\opvectores\vector.h
+

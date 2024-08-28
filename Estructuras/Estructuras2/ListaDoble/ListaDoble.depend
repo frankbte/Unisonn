@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1711906826 source:c:\users\frank\documents\unison\estructuras\estructuras2\listadoble\main.cpp
+	<iostream>
+	"Lista.h"
+
+1711176904 c:\users\frank\documents\unison\estructuras\estructuras2\listadoble\lista.h
+	"Lista.tpp"
+
+1711176434 c:\users\frank\documents\unison\estructuras\estructuras2\listadoble\lista.tpp
+	"Lista.h"
+

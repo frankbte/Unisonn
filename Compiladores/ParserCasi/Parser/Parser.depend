@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1717111686 source:c:\users\silvi\downloads\parser\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+	<string>
+
+1717111868 source:c:\users\frank\documents\unison\compiladores\parsercasi\parser\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+	<string>
+

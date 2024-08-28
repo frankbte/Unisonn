@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1676576516 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pila\main.cpp
+	<iostream>
+	"pila.h"
+
+1676575713 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pila\pila.cpp
+	"pila.h"
+	<iostream>
+
+1676573968 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pila\pila.h
+
+1677185850 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilaasesoria\main.cpp
+	<iostream>
+	"pila.h"
+
+1677183462 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilaasesoria\pila.h
+
+1677185776 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilaasesoria\pila.cpp
+	"pila.h"
+	<iostream>
+
+1677530146 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\piladinamicafranciscoyanez\main.cpp
+	<iostream>
+	"pila.h"
+
+1677530008 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\piladinamicafranciscoyanez\pila.h
+
+1677553351 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\piladinamicafranciscoyanez\pila.cpp
+	"pila.h"
+	<iostream>
+
+1677530146 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\trabajoslistos\piladinamicafranciscoyanez\main.cpp
+	<iostream>
+	"pila.h"
+
+1677530008 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\trabajoslistos\piladinamicafranciscoyanez\pila.h
+
+1677553351 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\trabajoslistos\piladinamicafranciscoyanez\pila.cpp
+	"pila.h"
+	<iostream>
+

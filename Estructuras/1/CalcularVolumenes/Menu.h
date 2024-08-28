@@ -1,0 +1,8 @@
+#ifndef MENU_H_INCLUDED
+#define MENU_H_INCLUDED
+
+enum {SALIR, ESFERA, CUBO, PIRAMIDE, CILINDRO};
+
+int Menu();
+
+#endif // MENU_H_INCLUDED

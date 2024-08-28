@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1717205347 source:c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecabierto\main.cpp
+	<iostream>
+	"ListaEnlazada.h"
+
+1717204722 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecabierto\listaenlazada.h
+	<iostream>
+	"ListaEnlazada.tpp"
+
+1717205716 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecabierto\listaenlazada.tpp
+	"ListaEnlazada.h"
+

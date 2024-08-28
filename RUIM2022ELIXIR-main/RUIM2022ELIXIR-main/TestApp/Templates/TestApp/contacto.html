@@ -1,0 +1,16 @@
+{% extends "TestApp/base.html" %}
+
+ {% load static %}
+
+ {% block content %}
+
+  <center>
+    <div class="container p-5 intro-text center-0 text-center bg-faded p-4 rounded" style=" width: 50%; background-color: rgba(28, 72, 124); color: white; font-size: 100%; margin-top: 3cm; margin-bottom: 3cm;">
+      <h3 style="font-size: 165%; color: white;">
+        {{ contacto.text|linebreaks }} 
+        <br />
+        {{ contacto.contacto }} <br /> </h3>
+    </div>
+  </center>
+
+ {% endblock %}

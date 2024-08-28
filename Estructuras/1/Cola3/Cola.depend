@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1678216898 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\cola\cola.cpp
+	"Cola.h"
+	<cstdlib>
+	<iostream>
+
+1678217766 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\cola\cola.h
+
+1678216962 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\cola\main.cpp
+	"Cola.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1678217766 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\cola3\cola.cpp
+	"Cola.h"
+	<cstdlib>
+	<iostream>
+
+1678394678 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\cola3\cola.h
+	<cstdlib>
+	<iostream>
+
+1678216962 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\cola3\main.cpp
+	"Cola.h"
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+

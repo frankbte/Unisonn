@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1710264404 source:c:\users\frank\documents\unison\estructuras\estructuras2\listaenlazadasimple\main.cpp
+	<iostream>
+	"ListaSimple.h"
+
+1710265664 source:c:\users\frank\documents\unison\estructuras\estructuras2\listaenlazadasimple\listasimple.cpp
+	"ListaSimple.h"
+
+1710262102 c:\users\frank\documents\unison\estructuras\estructuras2\listaenlazadasimple\listasimple.h
+	<cstdlib>
+	<iostream>
+

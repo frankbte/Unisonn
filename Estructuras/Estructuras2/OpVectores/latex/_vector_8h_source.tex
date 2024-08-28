@@ -1,0 +1,49 @@
+\doxysection{Vector.\+h}
+\hypertarget{_vector_8h_source}{}\label{_vector_8h_source}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ \textcolor{preprocessor}{\#ifndef\ VECTOR\_H\_INCLUDED}}
+\DoxyCodeLine{00002\ \textcolor{preprocessor}{\#define\ VECTOR\_H\_INCLUDED}}
+\DoxyCodeLine{00003\ }
+\DoxyCodeLine{00004\ \textcolor{keyword}{class\ }\mbox{\hyperlink{class_vector}{Vector}}\{}
+\DoxyCodeLine{00005\ \textcolor{keyword}{friend}\ \mbox{\hyperlink{class_vector}{Vector}}\ operator*(\textcolor{keywordtype}{double}\ escalar,\ \mbox{\hyperlink{class_vector}{Vector}}\ v);}
+\DoxyCodeLine{00006\ \textcolor{keyword}{friend}\ std::ostream\ \&\ operator<<(std::ostream\ \&out,\ \mbox{\hyperlink{class_vector}{Vector}}\ v);}
+\DoxyCodeLine{00007\ \textcolor{keyword}{friend}\ std::istream\ \&\ operator>>(std::istream\ \&in,\ \mbox{\hyperlink{class_vector}{Vector}}\ \&v);}
+\DoxyCodeLine{00008\ }
+\DoxyCodeLine{00009\ \textcolor{keyword}{public}:\ \textcolor{comment}{//\ todos\ tienen\ acceso}}
+\DoxyCodeLine{00010\ \ \ \ \ \textcolor{keyword}{explicit}\ \mbox{\hyperlink{class_vector}{Vector}}(\textcolor{keywordtype}{int}\ dim\ =\ 3);}
+\DoxyCodeLine{00011\ \ \ \ \ \mbox{\hyperlink{class_vector}{Vector}}\&\ operator=(\textcolor{keyword}{const}\ \mbox{\hyperlink{class_vector}{Vector}}\ \&v);}
+\DoxyCodeLine{00012\ \ \ \ \ \mbox{\hyperlink{class_vector}{\string~Vector}}();}
+\DoxyCodeLine{00013\ \ \ \ \ \textcolor{keywordtype}{int}\ ObtenerDim()\ \textcolor{keyword}{const};}
+\DoxyCodeLine{00014\ \ \ \ \ \textcolor{keywordtype}{void}\ Capturar();}
+\DoxyCodeLine{00015\ \ \ \ \ \textcolor{keywordtype}{void}\ Imprimir()\ \textcolor{keyword}{const};}
+\DoxyCodeLine{00016\ }
+\DoxyCodeLine{00017\ \ \ \ \ \mbox{\hyperlink{class_vector}{Vector}}\ operator+(\mbox{\hyperlink{class_vector}{Vector}}\ v)\ \textcolor{keyword}{const};}
+\DoxyCodeLine{00018\ \ \ \ \ \mbox{\hyperlink{class_vector}{Vector}}\ operator-\/(\mbox{\hyperlink{class_vector}{Vector}}\ v);}
+\DoxyCodeLine{00019\ \ \ \ \ \mbox{\hyperlink{class_vector}{Vector}}\ operator*(\textcolor{keywordtype}{double}\ esc)\ \textcolor{keyword}{const};}
+\DoxyCodeLine{00020\ \ \ \ \ \textcolor{keywordtype}{double}\ operator*(\mbox{\hyperlink{class_vector}{Vector}}\ v);}
+\DoxyCodeLine{00021\ \ \ \ \ \textcolor{keywordtype}{double}\ ObtenerMag();}
+\DoxyCodeLine{00022\ }
+\DoxyCodeLine{00023\ }
+\DoxyCodeLine{00024\ \textcolor{keyword}{private}:\ \textcolor{comment}{//\ amigos\ y\ yo}}
+\DoxyCodeLine{00025\ \ \ \ \ \textcolor{keywordtype}{int}\ dim;}
+\DoxyCodeLine{00026\ \ \ \ \ \textcolor{keywordtype}{void}\ EstablecerDim(\textcolor{keywordtype}{int}\ dimension);}
+\DoxyCodeLine{00027\ \ \ \ \ \textcolor{comment}{//double\ componente[MAXDIM];}}
+\DoxyCodeLine{00028\ \ \ \ \ \textcolor{keywordtype}{double}\ *componente;}
+\DoxyCodeLine{00029\ }
+\DoxyCodeLine{00030\ }
+\DoxyCodeLine{00031\ }
+\DoxyCodeLine{00032\ }
+\DoxyCodeLine{00033\ }
+\DoxyCodeLine{00034\ }
+\DoxyCodeLine{00035\ }
+\DoxyCodeLine{00036\ }
+\DoxyCodeLine{00037\ }
+\DoxyCodeLine{00038\ }
+\DoxyCodeLine{00039\ }
+\DoxyCodeLine{00040\ }
+\DoxyCodeLine{00041\ \};}
+\DoxyCodeLine{00042\ }
+\DoxyCodeLine{00043\ }
+\DoxyCodeLine{00044\ \textcolor{preprocessor}{\#endif\ }\textcolor{comment}{//\ VECTOR\_H\_INCLUDED}}
+
+\end{DoxyCode}

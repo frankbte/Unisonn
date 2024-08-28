@@ -1,0 +1,36 @@
+{% extends "TestApp/base.html" %}
+
+ {% load static %}
+
+ {% block content %}
+      <body>
+
+         <div><p></p></div>
+
+               <div class="container p-5 center-0 text-center bg-faded p-4 rounded" style="margin-top: 0cm; background-color: rgba(28, 72, 124); width: 80%;">
+                  <h3 style=" font-size: 150%; text-align: center; color: white;">
+                     {{ubicacion.text}}
+                     <br> <br>
+                     <a href={{ubicacion.url_maps}} target="_blank" style="font-weight: bold; color: rgb(255, 255, 255);">Ver en Google Maps</a>
+                  </h3>
+               </div>
+               
+               <div style="text-align: center; margin-top: .5cm; align-items: center;" >
+               	  {% autoescape off %}
+				  	<iframe src="{{ubicacion.url_maps_embed}}"
+               			width="600" 
+               			height="450" 
+               			style="border:0; margin-left: 100px;"
+               			allowfullscreen="" 
+               			loading="lazy" 
+               			referrerpolicy="no-referrer-when-downgrade">
+         			</iframe>	
+                  {% endautoescape %}
+				  <br/>
+               </div>
+			   <br/>
+            </div>
+         
+   </body>
+
+ {% endblock %}

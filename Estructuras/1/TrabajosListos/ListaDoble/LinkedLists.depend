@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1678928279 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\linkedlists\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+
+1678928957 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\linkedlists\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+
+1678928949 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\linkedlists\lista.h
+	<cstdlib>
+	<iostream>
+
+1679602610 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\listadoble\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+
+1679600431 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\listadoble\lista.h
+	<cstdlib>
+	<iostream>
+
+1679600615 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\listadoble\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+
+1710434519 source:c:\users\frank\documents\unison\estructuras\1\trabajoslistos\listadoble\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+
+1710801540 c:\users\frank\documents\unison\estructuras\1\trabajoslistos\listadoble\lista.h
+	<cstdlib>
+	<iostream>
+
+1710434363 source:c:\users\frank\documents\unison\estructuras\1\trabajoslistos\listadoble\main.cpp
+	<iostream>
+	<cstdlib>
+	<iostream>
+	"Lista.h"
+

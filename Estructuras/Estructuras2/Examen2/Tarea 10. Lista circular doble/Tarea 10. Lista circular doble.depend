@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1680239183 source:c:\users\bdgae\onedrive\documentos\estructura de datos\tarea 10. lista circular doble\tarea 10. lista circular doble\main.cpp
+	<iostream>
+	"ListaCircularDoble.h"
+	"Pila.h"
+
+1680239164 c:\users\bdgae\onedrive\documentos\estructura de datos\tarea 10. lista circular doble\tarea 10. lista circular doble\listacirculardoble.h
+	"ListaCircularDoble.tpp"
+
+1680239125 c:\users\bdgae\onedrive\documentos\estructura de datos\tarea 10. lista circular doble\tarea 10. lista circular doble\listacirculardoble.tpp
+
+1680237221 c:\users\bdgae\onedrive\documentos\estructura de datos\tarea 10. lista circular doble\tarea 10. lista circular doble\pila.h
+	<iostream>
+	"Pila.tpp"
+
+1680237260 c:\users\bdgae\onedrive\documentos\estructura de datos\tarea 10. lista circular doble\tarea 10. lista circular doble\pila.tpp
+	<iostream>
+
+1712944609 source:c:\users\frank\documents\unison\estructuras\estructuras2\tarea 10. lista circular doble\tarea 10. lista circular doble\main.cpp
+	<iostream>
+	"ListaCircularDoble.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<unistd.h>
+
+1712938623 c:\users\frank\documents\unison\estructuras\estructuras2\tarea 10. lista circular doble\tarea 10. lista circular doble\listacirculardoble.h
+	"ListaCircularDoble.tpp"
+
+1712943579 c:\users\frank\documents\unison\estructuras\estructuras2\tarea 10. lista circular doble\tarea 10. lista circular doble\listacirculardoble.tpp
+
+1680237221 c:\users\frank\documents\unison\estructuras\estructuras2\tarea 10. lista circular doble\tarea 10. lista circular doble\pila.h
+	<iostream>
+	"Pila.tpp"
+
+1680237260 c:\users\frank\documents\unison\estructuras\estructuras2\tarea 10. lista circular doble\tarea 10. lista circular doble\pila.tpp
+	<iostream>
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1709837690 source:c:\users\frank\documents\unison\estructuras\estructuras2\cola\main.cpp
+	<iostream>
+	<ctime>
+	"cola.h"
+	"windows.h"
+	<chrono>
+	<thread>
+	<vector>
+
+1709583763 c:\users\frank\documents\unison\estructuras\estructuras2\cola\cola.h
+	"cola.tpp"
+
+1709759249 c:\users\frank\documents\unison\estructuras\estructuras2\cola\cola.tpp
+	<cstdlib>
+
+1710918243 source:c:\users\frank\documents\unison\estructuras\estructuras2\colamedieval\main.cpp
+	<iostream>
+	<ctime>
+	"cola.h"
+	"windows.h"
+	<chrono>
+	<thread>
+	<vector>
+
+1709580163 c:\users\frank\documents\unison\estructuras\estructuras2\colamedieval\cola.h
+	"cola.tpp"
+
+1709755649 c:\users\frank\documents\unison\estructuras\estructuras2\colamedieval\cola.tpp
+	<cstdlib>
+

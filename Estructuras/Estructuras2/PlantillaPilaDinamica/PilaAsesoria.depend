@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1677557204 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilaasesoria\main.cpp
+	<iostream>
+	"pila.h"
+
+1677554400 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilaasesoria\pila.h
+
+1677556416 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilaasesoria\pila.cpp
+	<iostream>
+	<cstdlib>
+	"pila.h"
+
+1677567742 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\piladinamicaasesoria\main.cpp
+	<iostream>
+	"pila.h"
+
+1677569195 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\piladinamicaasesoria\pila.h
+
+1677567693 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\piladinamicaasesoria\pila.cpp
+	<iostream>
+	<cstdlib>
+	"pila.h"
+
+1708288799 source:c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\plantillapiladinamica\main.cpp
+	<iostream>
+	"pila.h"
+
+1708288472 c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\plantillapiladinamica\pila.h
+	"pila.tpp"
+
+1708288939 c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\plantillapiladinamica\pila.tpp
+	<iostream>
+	<cstdlib>
+
+1708978047 source:c:\users\frank\documents\unison\estructuras\estructuras2\plantillapiladinamica\main.cpp
+	<iostream>
+	"pila.h"
+
+1708978047 c:\users\frank\documents\unison\estructuras\estructuras2\plantillapiladinamica\pila.h
+	"pila.tpp"
+
+1708978047 c:\users\frank\documents\unison\estructuras\estructuras2\plantillapiladinamica\pila.tpp
+	<iostream>
+	<cstdlib>
+

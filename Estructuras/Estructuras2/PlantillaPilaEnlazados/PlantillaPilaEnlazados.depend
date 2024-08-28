@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1708449555 source:c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\plantillapilaenlazados\main.cpp
+	<iostream>
+
+1708978047 source:c:\users\frank\documents\unison\estructuras\estructuras2\plantillapilaenlazados\main.cpp
+	<iostream>
+	"pila.h"
+
+1708978047 c:\users\frank\documents\unison\estructuras\estructuras2\plantillapilaenlazados\include\pila.h
+	"../pila.tpp"
+
+1708978047 c:\users\frank\documents\unison\estructuras\estructuras2\plantillapilaenlazados\pila.tpp
+	<iostream>
+

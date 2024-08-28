@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1685084349 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\monticulo4\main.cpp
+	"Monticulo.h"
+
+1685084560 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\monticulo4\monticulo.h
+	<cstddef>
+	<iostream>
+	<cstring>
+	<cmath>
+	"./Monticulo.tpp"
+
+1685084349 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\monticulo4\monticulo.tpp
+	"Monticulo.h"
+

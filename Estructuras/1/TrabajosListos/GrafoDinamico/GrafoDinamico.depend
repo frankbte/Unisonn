@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1684482314 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\grafodinamico\arista.cpp
+	"Arista.h"
+
+1684711856 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\grafodinamico\main.cpp
+	<iostream>
+	"Grafo.h"
+
+1684300563 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\grafodinamico\vertice.cpp
+	"Vertice.h"
+
+1684709175 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\grafodinamico\grafo.cpp
+	"Grafo.h"
+
+1684300457 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\grafodinamico\vertice.h
+	<iostream>
+
+1684302076 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\grafodinamico\arista.h
+	<iostream>
+
+1684631085 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\grafodinamico\grafo.h
+	"Arista.h"
+	"Vertice.h"
+	<queue>
+	<list>
+	<stack>
+	<map>
+	<limits>
+	<unordered_set>
+

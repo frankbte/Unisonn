@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1677557204 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilaasesoria\main.cpp
+	<iostream>
+	"pila.h"
+
+1677554400 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilaasesoria\pila.h
+
+1677556416 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilaasesoria\pila.cpp
+	<iostream>
+	<cstdlib>
+	"pila.h"
+
+1677557204 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\piladinamicaasesoria\main.cpp
+	<iostream>
+	"pila.h"
+
+1677567661 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\piladinamicaasesoria\pila.h
+
+1677567693 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\piladinamicaasesoria\pila.cpp
+	<iostream>
+	<cstdlib>
+	"pila.h"
+
+1679604143 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilalista\main.cpp
+	<iostream>
+	"pila.h"
+
+1679603000 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilalista\pila.h
+	"Lista.h"
+
+1679600048 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilalista\lista.h
+	<cstdlib>
+	<iostream>
+
+1679603242 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilalista\pila.cpp
+	<iostream>
+	<cstdlib>
+	"pila.h"
+
+1679604067 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\pilalista\lista.cpp
+	"Lista.h"
+	<iostream>
+	<cstdlib>
+

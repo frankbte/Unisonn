@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1712945111 source:c:\users\frank\documents\unison\estructuras\estructuras2\exam2\main.cpp
+	<iostream>
+	"examen.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<unistd.h>
+
+1712945069 c:\users\frank\documents\unison\estructuras\estructuras2\exam2\examen.h
+	"examen.tpp"
+
+1712945112 c:\users\frank\documents\unison\estructuras\estructuras2\exam2\examen.tpp
+

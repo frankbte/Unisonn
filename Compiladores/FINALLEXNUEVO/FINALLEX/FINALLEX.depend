@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717141040 source:c:\users\silvi\downloads\finallex\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+

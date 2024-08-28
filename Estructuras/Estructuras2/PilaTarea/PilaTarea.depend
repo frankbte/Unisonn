@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1708290726 source:c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\pilatarea\main.cpp
+	<iostream>
+	"Pila.h"
+
+1708290578 c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\pilatarea\pila.h
+	"Pila.tpp"
+
+1708290511 c:\users\frank\onedrive\documentos\unison\estructuras\estructuras2\pilatarea\pila.tpp
+	<iostream>
+	<cstdlib>
+

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1684296094 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\arbolbinariov2\main.cpp
+	<iostream>
+	<cstdlib>
+	"Arbol.h"
+
+1682054932 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\arbolbinariov2\arbol.cpp
+	"Arbol.h"
+	<iostream>
+	<cstdlib>
+
+1684294338 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\arbolbinariov2\arbol.h
+	<cstdlib>
+	<iostream>
+	"Arbol.tpp"
+
+1684295716 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\arbolbinariov2\arbol.tpp
+	"Arbol.h"
+	<iostream>
+	<cstdlib>
+
+1708977979 source:c:\users\frank\documents\unison\estructuras\1\trabajoslistos\arbolbinariov2\main.cpp
+	<iostream>
+	<cstdlib>
+	"Arbol.h"
+
+1708977979 c:\users\frank\documents\unison\estructuras\1\trabajoslistos\arbolbinariov2\arbol.h
+	<cstdlib>
+	<iostream>
+	"Arbol.tpp"
+
+1708977979 c:\users\frank\documents\unison\estructuras\1\trabajoslistos\arbolbinariov2\arbol.tpp
+	"Arbol.h"
+	<iostream>
+	<cstdlib>
+

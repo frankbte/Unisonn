@@ -1,0 +1,6 @@
+*.pyc
+db.sqlite3
+report.pdf
+*archivos*
+environment.yml
+TestApp/migrations/*

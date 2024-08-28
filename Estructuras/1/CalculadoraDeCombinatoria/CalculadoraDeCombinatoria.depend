@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1676570325 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calculadoradecombinatoria\combinatoria.cpp
+	"Combinatoria.h"
+
+1676570325 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calculadoradecombinatoria\combinatoria.h
+
+1676570325 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calculadoradecombinatoria\main.cpp
+	<iostream>
+	<cstdlib>
+	"Combinatoria.h"
+	"Utileria.h"
+	"Menu.h"
+
+1676570325 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calculadoradecombinatoria\utileria.h
+
+1676570325 c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calculadoradecombinatoria\menu.h
+
+1676570325 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calculadoradecombinatoria\menu.cpp
+	"Menu.h"
+	<cstdlib>
+	<iostream>
+	"Utileria.h"
+
+1676570325 source:c:\users\frank\onedrive\documentos\unison\estructuras\codeblocks\calculadoradecombinatoria\utileria.cpp
+	"Utileria.h"
+	<iostream>
+	<limits>
+

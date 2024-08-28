@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1685637287 source:c:\users\lenovo\onedrive\escritorio\unison\4to semestre\estructura de datos\proyectotablahashdc\me equivoqué de proyecto\tablahashdc\main.cpp
+	<iostream>
+	"TablaHashDC.h"
+	"FuncionesDeGestion.h"
+	"utilerias.h"
+
+1685508254 c:\users\lenovo\onedrive\escritorio\unison\4to semestre\estructura de datos\proyectotablahashdc\me equivoqué de proyecto\tablahashdc\tablahashdc.h
+	<iostream>
+	<string>
+	"ListaEnlazadaSimple.h"
+	"utilerias.h"
+
+1685509396 c:\users\lenovo\onedrive\escritorio\unison\4to semestre\estructura de datos\proyectotablahashdc\me equivoqué de proyecto\tablahashdc\listaenlazadasimple.h
+	<iostream>
+	"ListaEnlazadaSimple.tpp"
+
+1685520099 c:\users\lenovo\onedrive\escritorio\unison\4to semestre\estructura de datos\proyectotablahashdc\me equivoqué de proyecto\tablahashdc\listaenlazadasimple.tpp
+	"ListaEnlazadaSimple.h"
+
+1685634927 source:c:\users\lenovo\onedrive\escritorio\unison\4to semestre\estructura de datos\proyectotablahashdc\me equivoqué de proyecto\tablahashdc\tablahashdc.cpp
+	"TablaHashDC.h"
+
+1685642155 source:c:\users\lenovo\onedrive\escritorio\unison\4to semestre\estructura de datos\proyectotablahashdc\me equivoqué de proyecto\tablahashdc\utilerias.cpp
+	"utilerias.h"
+
+1685634866 c:\users\lenovo\onedrive\escritorio\unison\4to semestre\estructura de datos\proyectotablahashdc\me equivoqué de proyecto\tablahashdc\utilerias.h
+	<iostream>
+	<windows.h>
+	<limits>
+
+1685642155 source:c:\users\lenovo\onedrive\escritorio\unison\4to semestre\estructura de datos\proyectotablahashdc\me equivoqué de proyecto\tablahashdc\funcionesdegestion.cpp
+	"FuncionesDeGestion.h"
+
+1685636568 c:\users\lenovo\onedrive\escritorio\unison\4to semestre\estructura de datos\proyectotablahashdc\me equivoqué de proyecto\tablahashdc\funcionesdegestion.h
+	<iostream>
+	<limits>
+	<conio.h>
+	<windows.h>
+	"TablaHashDC.h"
+	"Utilerias.h"
+
+1685642155 source:c:\users\frank\documents\unison\estructuras\estructuras2\tabla hash con direccionamiento cerrado\tablahashdc\funcionesdegestion.cpp
+	"FuncionesDeGestion.h"
+
+1685636568 c:\users\frank\documents\unison\estructuras\estructuras2\tabla hash con direccionamiento cerrado\tablahashdc\funcionesdegestion.h
+	<iostream>
+	<limits>
+	<conio.h>
+	<windows.h>
+	"TablaHashDC.h"
+	"Utilerias.h"
+
+1685508254 c:\users\frank\documents\unison\estructuras\estructuras2\tabla hash con direccionamiento cerrado\tablahashdc\tablahashdc.h
+	<iostream>
+	<string>
+	"ListaEnlazadaSimple.h"
+	"utilerias.h"
+
+1717291110 c:\users\frank\documents\unison\estructuras\estructuras2\tabla hash con direccionamiento cerrado\tablahashdc\listaenlazadasimple.h
+	<iostream>
+	"ListaEnlazadaSimple.tpp"
+
+1717291110 c:\users\frank\documents\unison\estructuras\estructuras2\tabla hash con direccionamiento cerrado\tablahashdc\listaenlazadasimple.tpp
+	"ListaEnlazadaSimple.h"
+
+1685634866 c:\users\frank\documents\unison\estructuras\estructuras2\tabla hash con direccionamiento cerrado\tablahashdc\utilerias.h
+	<iostream>
+	<windows.h>
+	<limits>
+
+1685634927 source:c:\users\frank\documents\unison\estructuras\estructuras2\tabla hash con direccionamiento cerrado\tablahashdc\tablahashdc.cpp
+	"TablaHashDC.h"
+
+1685642155 source:c:\users\frank\documents\unison\estructuras\estructuras2\tabla hash con direccionamiento cerrado\tablahashdc\utilerias.cpp
+	"utilerias.h"
+
+1685677814 source:c:\users\frank\documents\unison\estructuras\estructuras2\tabla hash con direccionamiento cerrado\tablahashdc\main.cpp
+	<iostream>
+	"TablaHashDC.h"
+	"FuncionesDeGestion.h"
+	"utilerias.h"
+

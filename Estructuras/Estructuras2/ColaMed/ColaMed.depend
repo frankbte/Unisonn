@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\frank\documents\unison\estructuras\estructuras2\colamed\main.cpp
+	<iostream>
+
+1710959482 source:c:\users\frank\documents\unison\estructuras\estructuras2\colamed\colamed.cpp
+	"ColaMed.h"
+
+1710959518 c:\users\frank\documents\unison\estructuras\estructuras2\colamed\colamed.h
+	<string>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<windows.h>
+	<ctime>
+

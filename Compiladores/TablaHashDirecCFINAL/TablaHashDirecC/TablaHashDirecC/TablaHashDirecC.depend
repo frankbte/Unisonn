@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1717354859 source:c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\main.cpp
+	<iostream>
+	"Lista.h"
+	"TablaHash.h"
+	"utilerias.h"
+
+1717351767 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\lista.h
+	"Lista.tpp"
+
+1717355026 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\lista.tpp
+	"Lista.h"
+
+1717354931 source:c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\tablahash.cpp
+	"TablaHash.h"
+
+1717349974 source:c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\utilerias.cpp
+	"utilerias.h"
+
+1717349928 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\utilerias.h
+	<iostream>
+	<windows.h>
+	<limits>
+
+1717352461 c:\users\frank\documents\unison\estructuras\estructuras2\tablahashdirecc\tablahash.h
+	<iostream>
+	<string>
+	"Lista.h"
+	"utilerias.h"
+
+1717401463 source:c:\users\herna\downloads\tablahashdirecc\tablahashdirecc\tablahash.cpp
+	"TablaHash.h"
+	"utilerias.h"
+
+1717389575 c:\users\herna\downloads\tablahashdirecc\tablahashdirecc\tablahash.h
+	<iostream>
+	<string>
+	"Lista.h"
+	"utilerias.h"
+	"InterfazGrafica.h"
+
+1717355641 c:\users\herna\downloads\tablahashdirecc\tablahashdirecc\lista.h
+	"Lista.tpp"
+
+1717355641 c:\users\herna\downloads\tablahashdirecc\tablahashdirecc\lista.tpp
+	"Lista.h"
+
+1717357400 c:\users\herna\downloads\tablahashdirecc\tablahashdirecc\utilerias.h
+	<iostream>
+	<windows.h>
+	<limits>
+
+1717357400 source:c:\users\herna\downloads\tablahashdirecc\tablahashdirecc\utilerias.cpp
+	"utilerias.h"
+
+1717388589 source:c:\users\herna\downloads\tablahashdirecc\tablahashdirecc\main.cpp
+	<iostream>
+	<conio.h>
+	"Lista.h"
+	"TablaHash.h"
+	"utilerias.h"
+	"FuncionesHash.h"
+	"InterfazGrafica.h"
+
+1717401532 source:c:\users\herna\downloads\tablahashdirecc\tablahashdirecc\funcioneshash.cpp
+	"FuncionesHash.h"
+	"InterfazGrafica.h"
+	"utilerias.h"
+
+1717388555 c:\users\herna\downloads\tablahashdirecc\tablahashdirecc\funcioneshash.h
+	<iostream>
+	<string>
+	<limits>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<unordered_set>
+	"utilerias.h"
+	"TablaHash.h"
+
+1717373486 source:c:\users\herna\downloads\tablahashdirecc\tablahashdirecc\interfazgrafica.cpp
+	"InterfazGrafica.h"
+
+1717373486 c:\users\herna\downloads\tablahashdirecc\tablahashdirecc\interfazgrafica.h
+	<iostream>
+	<string>
+	<conio.h>
+	<Windows.h>
+
+1717373488 source:c:\users\frank\documents\unison\compiladores\tablahashdireccfinal\tablahashdirecc\tablahashdirecc\interfazgrafica.cpp
+	"InterfazGrafica.h"
+
+1717373488 c:\users\frank\documents\unison\compiladores\tablahashdireccfinal\tablahashdirecc\tablahashdirecc\interfazgrafica.h
+	<iostream>
+	<string>
+	<conio.h>
+	<Windows.h>
+
+1717388590 source:c:\users\frank\documents\unison\compiladores\tablahashdireccfinal\tablahashdirecc\tablahashdirecc\main.cpp
+	<iostream>
+	<conio.h>
+	"Lista.h"
+	"TablaHash.h"
+	"utilerias.h"
+	"FuncionesHash.h"
+	"InterfazGrafica.h"
+
+1717355642 c:\users\frank\documents\unison\compiladores\tablahashdireccfinal\tablahashdirecc\tablahashdirecc\lista.h
+	"Lista.tpp"
+
+1717355642 c:\users\frank\documents\unison\compiladores\tablahashdireccfinal\tablahashdirecc\tablahashdirecc\lista.tpp
+	"Lista.h"
+
+1717389576 c:\users\frank\documents\unison\compiladores\tablahashdireccfinal\tablahashdirecc\tablahashdirecc\tablahash.h
+	<iostream>
+	<string>
+	"Lista.h"
+	"utilerias.h"
+	"InterfazGrafica.h"
+
+1717357402 c:\users\frank\documents\unison\compiladores\tablahashdireccfinal\tablahashdirecc\tablahashdirecc\utilerias.h
+	<iostream>
+	<windows.h>
+	<limits>
+
+1717388556 c:\users\frank\documents\unison\compiladores\tablahashdireccfinal\tablahashdirecc\tablahashdirecc\funcioneshash.h
+	<iostream>
+	<string>
+	<limits>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<unordered_set>
+	"utilerias.h"
+	"TablaHash.h"
+
+1717401724 source:c:\users\frank\documents\unison\compiladores\tablahashdireccfinal\tablahashdirecc\tablahashdirecc\tablahash.cpp
+	"TablaHash.h"
+	"utilerias.h"
+
+1717357402 source:c:\users\frank\documents\unison\compiladores\tablahashdireccfinal\tablahashdirecc\tablahashdirecc\utilerias.cpp
+	"utilerias.h"
+
+1717401826 source:c:\users\frank\documents\unison\compiladores\tablahashdireccfinal\tablahashdirecc\tablahashdirecc\funcioneshash.cpp
+	"FuncionesHash.h"
+	"InterfazGrafica.h"
+	"utilerias.h"
+

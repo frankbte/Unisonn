@@ -1,0 +1,33 @@
+{% extends "TestApp/AdminFront/baseAdmin.html" %}
+{% load static %}
+
+{% block title %}Edición de Registro{% endblock %}
+
+{% block content %}
+
+
+<body>
+    <br/>
+    <center>
+        {% if message %}
+            <h2 style="color: rgb(129, 235, 246); font-weight: bold;">{{ message }} </h2>
+            </br>
+        {% endif %}
+        <h1>
+            Edición de la pestaña de Registro
+        </h1>
+        {% if form.errors %}
+            <p>Debe completar todos los campos correctamente.</p>
+        {% else %}
+            <p>Ingrese los cambios a los campos que se mostrarán en la pestaña de Registro:</p>
+        {% endif %}
+
+		<form action="{% url 'TestApp:Procesar Registro' %}" method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ form.as_ul }}
+            <input type="submit" value="Confirmar cambios">
+        </form>
+    </center>
+</body>
+
+{% endblock %}

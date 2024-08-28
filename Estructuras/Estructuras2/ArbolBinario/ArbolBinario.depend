@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1716394407 source:c:\users\frank\documents\unison\estructuras\estructuras2\arbolbinario\main.cpp
+	<iostream>
+	<cstdlib>
+	"ABB.h"
+
+1716396251 c:\users\frank\documents\unison\estructuras\estructuras2\arbolbinario\abb.h
+
+1716312039 source:c:\users\frank\documents\unison\estructuras\estructuras2\arbolbinario\abb.cpp
+	"ABB.h"
+	<iostream>
+
