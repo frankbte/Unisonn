@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tarea 7- Login</title>
+    <link rel="stylesheet" href="formato.css" />
+  </head>
+  <body>
+    <h1>Pantalla de Acceso</h1>
+
+    <div id="formulario">
+      <label for="nombre">Nombre de usuario:</label>
+      <input type="text" id="nombre" /><br /><br />
+
+      <label for="clave">Clave:</label>
+      <input type="password" id="clave" /><br /><br />
+    </div>
+
+    <div id="botones">
+      <button onclick="ponerFormato()">Poner formato</button>
+      <button onclick="borrarTodo()">Borrar todo</button>
+      <button onclick="mostrarTodo()">Mostrar todo</button>
+      <button style="background-color: red; color: white" onclick="noTocar()">
+        No tocar
+      </button>
+    </div>
+
+    <p id="mensaje"></p>
+
+    <script src="script.js"></script>
+  </body>
+</html>

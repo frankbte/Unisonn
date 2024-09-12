@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#formulario {
+  margin: 20px auto;
+  width: 300px;
+  text-align: left;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+#mensaje {
+  color: red;
+  font-weight: bold;
+  margin-top: 20px;
+}
