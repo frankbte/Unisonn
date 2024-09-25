@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cálculo de MCD y MCM</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Cálculo de MCD y MCM con valores al azar</h1>
+    <p>
+      Este programa genera números al azar y calcula su Máximo Común Divisor
+      (MCD) y Mínimo Común Múltiplo (MCM). Los valores generados están en los
+      rangos [50, 100] para el número inicial y [100, 500] para el número final.
+    </p>
+
+    <button onclick="mostrarMCD()">Calcular MCD</button>
+    <button onclick="mostrarMCM()">Calcular MCM</button>
+
+    <div id="resultado-mcd" class="resultado-a">
+      <p>Resultado MCD aparecerá aquí...</p>
+    </div>
+
+    <div id="resultado-mcm" class="resultado-b">
+      <p>Resultado MCM aparecerá aquí...</p>
+    </div>
+
+    <script src="funcionesMatematicas.js"></script>
+  </body>
+</html>
